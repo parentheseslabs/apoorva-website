@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "pretext-text-measurement": {
+      "source": "aradotso/trending-skills",
+      "sourceType": "github",
+      "computedHash": "c3d2c184cafa7227ce457095c603f1a2e0aa5d3786d201b01d86db0f528bdcc7"
+    }
+  }
+}
